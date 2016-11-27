@@ -140,7 +140,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
 * [Proton](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Silex](http://silex.sensiolabs.org/) - A micro framework built around Symfony2 components.
-* [Slim](http://www.slimframework.com/) - Another simple micro framework.
+* [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
@@ -814,6 +814,7 @@ Libraries to help manage database schemas and migrations.
 * [PuPHPet](https://puphpet.com/) - A web tool for building PHP development virtual machines.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+* [Docker](https://www.docker.com/) - A containerization platform.
 
 ## Virtual Machines
 *Alternative PHP virtual machines.*
